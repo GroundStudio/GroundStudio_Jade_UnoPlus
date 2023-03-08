@@ -12,16 +12,16 @@ Short description of the board.
 Contents
 -------------------
 
-* [/Documentation](https://github.com/GroundStudio) -- Contains documentation written during creation of this repository, with readme.md index of its own!
-* [/Firmware](https://github.com/GroundStudio) -- Firmware (bootloaders, etc)
-* [/Hardware](https://github.com/GroundStudio) -- Schematics, layout.
-* [/Libraries](https://github.com/GroundStudio) -- Arduino/CircuitPython libraries. 
+* [/Documentation](https://github.com/GroundStudio/GroundStudio_Jade_UnoPlus/tree/main/Documentation) -- Contains documentation written during creation of this repository, with readme.md index of its own!
+* [/Firmware](https://github.com/GroundStudio/GroundStudio_Jade_UnoPlus/tree/main/Firmware) -- Firmware (bootloaders, etc)
+* [/Hardware](https://github.com/GroundStudio/GroundStudio_Jade_UnoPlus/tree/main/Hardware) -- Schematics, layout.
+* [/Libraries](https://github.com/GroundStudio/GroundStudio_Jade_UnoPlus/tree/main/Libraries) -- Arduino/CircuitPython libraries. 
 * [/Tools](https://github.com/GroundStudio) -- Tools needed for compiling, uploading bootloader, etc.
 
 Versions
 -------------------
 *(Not all tags shown)*
-* [V0.0.1] Initial version
+* [V1.0.0] Initial version
 
 License
 -------------------
